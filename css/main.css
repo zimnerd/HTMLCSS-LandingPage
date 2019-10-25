@@ -53,6 +53,13 @@ section
 {
   display: flex;
 }
+.flex{display: flex}
+.flex-column{flex-direction: column;
+
+}
+.flex-one{
+  flex: 1;
+}
 
 .align-center
 {
@@ -75,7 +82,7 @@ section
   cursor: pointer;
   padding: 6px 12px;
   border-radius: 3px;
-  line-height: 1.4rem;
+  line-height: 1.4;
 }
 
 .btn-default
