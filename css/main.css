@@ -223,17 +223,17 @@ section
   background-image: url("../img/hero.jpg");
   height: 400px;
   background-size: cover;
-  background-position: center;
+  background-position: center center;
   text-transform: uppercase;
 }
 
-.hero div
+.hero h1
 {
   position: relative;
-  margin-left: -30px;
+  left: -30px;
 }
 
-.hero div h1, .hero div h2
+.hero  h1, .hero  h2
 {
   font-size: 63px;
   font-weight: 700;
@@ -241,12 +241,12 @@ section
 
 }
 
-.hero div h2
+.hero  h2
 {
   color: #FAA541;
 }
 
-.hero div p
+.hero  p
 {
   letter-spacing: 2px;
   font-weight: 700;
