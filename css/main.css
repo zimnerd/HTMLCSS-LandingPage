@@ -233,7 +233,7 @@ section
   left: -30px;
 }
 
-.hero  h1, .hero  h2
+.hero h1, .hero h2
 {
   font-size: 63px;
   font-weight: 700;
@@ -241,12 +241,12 @@ section
 
 }
 
-.hero  h2
+.hero h2
 {
   color: #FAA541;
 }
 
-.hero  p
+.hero p
 {
   letter-spacing: 2px;
   font-weight: 700;
