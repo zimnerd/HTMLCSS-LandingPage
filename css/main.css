@@ -525,10 +525,12 @@ footer a:hover
 {
   max-width: 230px;
 }
+
 .demo
 {
   padding: 0 30px;
 }
+
 .demo:before
 {
   content: "";
